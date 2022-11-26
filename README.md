@@ -20,7 +20,8 @@ ____
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Мои контакты:
-Telegram [@olgasolo2612](https://t.me/olgasolo2612)
+-  __Telegram__ [@olgasolo2612](https://t.me/olgasolo2612)
+-  __Почта__ olga.tovstaya@yandex.ru
 
 <!--
 **Olga-Soloveva/Olga-Soloveva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
